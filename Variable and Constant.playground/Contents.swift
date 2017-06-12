@@ -13,3 +13,8 @@ intNumber = 456
 
 // Explicit นี่คือการประกาศตัวแปรแบบกำหนดค่า Datatype
 let myConstant1: Int = 123
+
+
+// Display on Console
+print(intNumber)  // display only value แสดงค่าเท่านั้น
+print("intNumber ==>\(intNumber)") // display String and value
